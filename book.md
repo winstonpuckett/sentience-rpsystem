@@ -1,5 +1,7 @@
 # Character Composition
 
+The composition of a character is determined by the sum of ones attributes, skills, and equipped items. When a player starts, they start at 0, with no (or minimal) equipment. Then as the game progresses, they level up attributes and skills 
+
 ## Attributes
 
 ### Overview
