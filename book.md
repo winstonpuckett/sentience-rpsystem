@@ -1,6 +1,6 @@
 # Character Composition
 
-The composition of a character is determined by the sum of ones attributes, skills, and equipped items. When a player starts, they start at 0, with no (or minimal) equipment. Then as the game progresses, they level up attributes/skills and gain new equipment which allow them to have more predictable impact on the universe.
+The composition of a character is determined by the sum of one's attributes, skills, and equipped items. When a player starts, they start at 0, with no (or minimal) equipment. Then as the game progresses, they level up attributes/skills and gain new equipment which allow them to have more predictable impact on the universe.
 
 ## Attributes
 
@@ -126,3 +126,52 @@ How well does the character understand what heals? This is definitely a knowledg
 ## Maker
 
 Does the character know how to fit items together to be more than the sum of their parts? Can they create machines to automate watering the lawn? How to make trip wires? Shovels? Fires from wood, flint, and steel?
+
+## Conclusion
+
+If you haven't noticed, each skill relates heavily to one of the centers of intelligence. There are two skills for each center. This doesn't really have an effect on the game as far as I can tell, but it's interesting none the less.
+
+These 6 skills can be laid out simply on the character sheet like:
+
+```
+Tool Proficiency: 1
+Ranged Proficiency: 0
+Stealth: 3
+Performance: 0
+Healing: 1
+Maker: 2
+```
+
+# Items
+
+Items are fairly simple in terms of concept. Here is a bulleted list of things to remember
+
+- Items typically provide modifications to the base attributes. 
+- These modifications can and *should* have positive and negative effects.
+- Most items have skill requirements to be used effectively. 
+- A character cannot equip more items than is reasonable for them. Sure, if they have 6 arms, they might be able to use 6 hand axes... But not 8.
+- There may be certain items which require all of the focus for a body part and be marked with "All hands." For instance, doing complex math on a calculator only requires one hand, but you won't be wielding a sword while you're doing it. You could however run away and use your feet while doing complex math.
+- Because items may be changed out, it may be useful to store these items on a separate physical piece of paper than the character sheet.
+
+## Examples
+
+Remember that all attributes have two letter acronyms as discussed above.
+
+```
+Lead Pipe
+Requirements:
+- Tool Proficiency 1
+Effects:
+- PD +2
+- PA -2
+```
+
+```
+Short Bow
+Requirements:
+- Tool Proficiency 1
+- Ranged Proficiency 2
+Effects:
+- PA +3
+- MA -2
+```
