@@ -161,6 +161,7 @@ Remember that all attributes have two letter acronyms as discussed above.
 Lead Pipe
 Requirements:
 - Tool Proficiency 1
+- One Hand
 Effects:
 - PD +2
 - PA -2
@@ -171,6 +172,7 @@ Short Bow
 Requirements:
 - Tool Proficiency 1
 - Ranged Proficiency 2
+- Two Hands
 Effects:
 - PA +3
 - MA -2
