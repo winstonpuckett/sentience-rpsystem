@@ -12,7 +12,7 @@ These attributes are trait-based, as in the Big Five personality profile. This m
 
 #### The Centers of Intelligence
 
-As with the eneagram, there are three centers of intelligence. The mental, the social, and the physical. Each of these plays a very specific role in how characters interact with the universe. As the one who runs the game (the term "master branch" is deprecated. "Game master" and "dungeon master" seem tasteless, but... What's the replacement? Dungeon Mainer?)... Anyways, as the universe, you will need to understand these things deeply in order to set the stage of probability. 
+As with the eneagram, there are three centers of intelligence. The mental, the social, and the physical. Each of these plays a very specific role in how characters interact with the universe. As the one who runs the game (the term "master branch" in programming is deprecated. "Game master" and "dungeon master" seem tasteless, but... What's the replacement? Dungeon Mainer?)... Anyways, as the universe, you will need to understand these things deeply in order to set the stage of probability. 
 
 #### Awareness and Displacement
 
@@ -93,15 +93,11 @@ Next we will talk about skills, another third of the puzzle which makes up the c
 
 ## Skills
 
-Skills determine whether a character can use a particular piece of equipment or attempt a specific roll.
+Skills determine whether a character can use a particular piece of equipment or attempt a specific roll. Skill requirements are notated on equipment.
 
-Skill requirements are notated on equipment.
-
-If the character's skill is one less than the requirement, the character rolls with disadvantage (rolling two dice and picking the lower number)
-
-If the character's skill is two less than the requirement, the character must roll at natural twenty. If the difficulty is more than twenty, there is no way to roll correctly.
-
-If the character's skill is more than two less than the requirement, there is no way to roll successfully, but depending on the narative, there may be ways to fail entertainingly.
+- If the character's skill is one less than the requirement, the character rolls with disadvantage (rolling two dice and picking the lower number)
+- If the character's skill is two less than the requirement, the character must roll at natural twenty. If the difficulty is more than twenty, there is no way to roll correctly.
+- If the character's skill is more than two less than the requirement, there is no way to roll successfully, but depending on the narative, there may be ways to fail entertainingly.
 
 ## Tool Proficiency
 
