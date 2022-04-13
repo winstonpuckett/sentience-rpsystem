@@ -1,8 +1,12 @@
 # Character Composition
 
-The composition of a character is determined by the sum of ones attributes, skills, and equipped items. When a player starts, they start at 0, with no (or minimal) equipment. Then as the game progresses, they level up attributes and skills 
+The composition of a character is determined by the sum of ones attributes, skills, and equipped items. When a player starts, they start at 0, with no (or minimal) equipment. Then as the game progresses, they level up attributes/skills and gain new equipment which allow them to have more predictable impact on the universe.
 
 ## Attributes
+
+Attributes govern how easy it is for a character to perform or prevent an action. If the character is not very social, but tries to pursuade someone of something, the chances of success would be low.
+
+These attributes are trait-based, as in the Big Five personality profile. This means that we do not treat any attribute as a static thing, but instead recognize that these can go up and down as they do in real life. For the most part, attributes will go up as the characters level. In the event of trauma (character recovering from being knocked out, being kicked out of their parents' house, etc.) the attributes may go down.
 
 ### Overview
 
@@ -28,7 +32,7 @@ Remember, to solve a puzzle, you must internalize it somehow.
 
 #### Mental Displacement
 
-Mental displacement happens after the puzzle is injested. It is the, "now that you have all of the pieces, can you find the answer?"
+Mental displacement happens after the puzzle is injested. It is the, "now that you have all of the pieces, can you find the answer?" In a classic attribute system, this is the attribute that would be labeled as intelligence.
 
 #### Examples
 
@@ -41,7 +45,7 @@ The social intelligence is all about how you interact with creatures around you.
 
 #### Social Awareness
 
-Social Awareness is ones ability to perceive the intent of a comment and also if there is a hidden intent behind the comment. One with high enough social awareness can spot deception, know before an enemy engages in combat, predict the actions of individuals, etc.
+Social Awareness is ones ability to perceive the intent of another's cues. One with high enough social awareness can spot deception, know before an enemy engages in combat, predict the actions of individuals, etc.
 
 #### Social Displacement
 
@@ -49,9 +53,9 @@ Social Displacement is how easily one can use their words to convey their meanin
 
 #### Examples
 
-- Trying to reason with a king takes a high level of awareness and displacement, for it is very easy to offend a king by breaking a custom. The awareness allows you to use the customs to your advantage.
+- Trying to reason with a king takes a high level of awareness and displacement, for it is very easy to offend a king by breaking a custom.
 - Trying to intimidate a bar patron takes a high level of displacement and a low level of awareness.
-- Trying to spot a spy based on their nervousness takes a high level of awareness and a low level of displacement.
+- Trying to spot a spy based on the spy's nervousness takes a high level of awareness and a low level of displacement.
 
 ### The Physical Intelligence
 
@@ -63,7 +67,7 @@ This has to do with how the body is positioned or when one is feeling hungry/tir
 
 #### Physical Displacement
 
-Physical Displacement is how great an impact the character can make with their body. Strength. 
+Physical Displacement is how great an impact the character can make with their body. Strength.
 
 #### Examples
 
@@ -87,3 +91,38 @@ Where the first number is awareness and the second is displacement.
 
 Next we will talk about skills, another third of the puzzle which makes up the character's composition.
 
+## Skills
+
+Skills determine whether a character can use a particular piece of equipment or attempt a specific roll.
+
+Skill requirements are notated on equipment.
+
+If the character's skill is one less than the requirement, the character rolls with disadvantage (rolling two dice and picking the lower number)
+
+If the character's skill is two less than the requirement, the character must roll at natural twenty. If the difficulty is more than twenty, there is no way to roll correctly.
+
+If the character's skill is more than two less than the requirement, there is no way to roll successfully, but depending on the narative, there may be ways to fail entertainingly.
+
+## Tool Proficiency
+
+How easily can a character manipulate a keyboard? Play an instrument? Some tools, lead pipes for instance, don't require a lot of finger nimbleness. Other tools need you to be able to quickly manipulate parts in complex matters
+
+## Ranged Proficiency
+
+How well can a character calculate the tradjectory of a weapon? Whether it's a rock or a gun, being able to see the arc and aim effectively at range is a unique and valuable skill.
+
+## Stealth
+
+Can the character move without being seen by a group?
+
+## Performance
+
+Can the character draw and entertain a crowd?
+
+## Healing
+
+How well does the character understand what heals? This is definitely a knowledge of which medicines to use, but also extends to bone setting, etc.
+
+## Maker
+
+Does the character know how to fit items together to be more than the sum of their parts? Can they create machines to automate watering the lawn? How to make trip wires? Shovels? Fires from wood, flint, and steel?
