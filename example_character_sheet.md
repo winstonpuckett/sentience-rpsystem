@@ -1,6 +1,6 @@
 # Character Name
 
-## Effectiveness (Awareness / Displacement)
+## Attributes (Awareness / Displacement)
  
 - Body: 0 / 0
 - Social: 0 / 0
@@ -14,3 +14,10 @@
 - Medicine: 0
 - Crafting: 0
 - Animal Handling: 0
+
+## Calculations
+
+- Health = (BD / 2) + 3
+- Speed = (BA / 3) + 3
+
+- Constitution 
