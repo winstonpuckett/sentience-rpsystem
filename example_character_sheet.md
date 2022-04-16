@@ -9,11 +9,11 @@
 ## Skills
 
 - Tool: 0
+- Ranged: 0
 - Stealth: 0
 - Performance: 0
-- Medicine: 0
-- Crafting: 0
-- Animal Handling: 0
+- Healing: 0
+- Maker: 0
 
 ## Calculations
 
