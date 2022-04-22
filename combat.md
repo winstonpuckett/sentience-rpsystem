@@ -2,7 +2,7 @@
 
 There will most likely be times in the character's journey where adversarial situations arise. These could be physical combat or they could be mental or emotional puzzles. Whenever the characters enter into an adversarial situation which is opposed by a being that takes action against them, they are said to have entered combat.
 
-Because of the ditriadic nature of the attributes, many things could be considered combat which weren't before. As the universe, you will have to decide what types of combat will be fun for the players. For instance, will it be fun to barter for the sword from the seller? Maybe... Maybe not? It depends on the narrative and the delicate balance of combat phases and non-combat interactions which encourage fun.
+Because of the ditriadic nature of the attributes, many things could be considered combat which weren't before. As the universe, you will have to decide what types of combat will be fun for the players. For instance, will it be fun to barter for the sword from the seller? Maybe... Maybe not? It depends on the narrative and the delicate balance of combat and non-combat phases which encourage fun.
 
 ## Options
 

@@ -2,6 +2,8 @@
 
 The composition of a character is determined by the sum of one's attributes, skills, and equipped items. When a player starts, they start at 0, with no (or minimal) equipment. Then as the game progresses, they level up attributes/skills and gain new equipment which allow them to have more predictable impact on the universe.
 
+After finding / picking the base stats, we can figure out how certain roles will function. This is easier than using the stats themselves and is a little bit more accurate when in the natural universe, these would be combinations of skills.
+
 ## Attributes
 
 Attributes govern how easy it is for a character to perform or prevent an action. If the character is not very social, but tries to pursuade someone of something, the chances of success would be low.
@@ -173,3 +175,25 @@ Effects:
 - PA +3
 - MA -2
 ```
+
+## Calculations
+
+### Fortitude
+
+Fortitude is how much stamina you have in a certain realm. If you run out of body fortitude, you may fall asleep or die. If you run out of social fortitude, you may become ashamed or afraid. If you run out of mental fortitude, your eyes may become blank and you may not be able to act rationally.
+
+Fortitude governs defense and how much damage you can soak up.
+
+Fortitude = A + (D * 2)
+
+### Aptitude
+
+Aptitude is how effectively you can act.
+
+Aptitude = (A * 2) + D
+
+### Speed
+
+Speed is how far you can move in a single turn.
+
+Speed = A - D (Minimum 4, Maximum 8)
